@@ -27,8 +27,8 @@
 <details open>
 <summary>About Me</summary>
 <ul>
-<li>🌱 Currently focused on AI & Robotics</li>
-<li>⚡ Likes Building websites for fun</li>
+<li>🌱 Currently focused on DataScience & Cybersecurity. </li>
+<li>⚡ Likes exploring C/C++ for fun. </li>
 <li>📫 Contact me at <strong>mokallabhanuprasad@gmail.com</strong></li>
 </ul>
 </details>
