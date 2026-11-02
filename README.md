@@ -53,15 +53,12 @@
 </details>
 
 <details open>
-<summary>GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=bhanuM1279&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="GitHub streak"/>
-</p>
-
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=bhanuM1279&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="GitHub streak" />
+  </p>
 </details>
-
-
 
 
 
